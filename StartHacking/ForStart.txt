@@ -1,0 +1,51 @@
+######suis-je au bon endroit pour apprendre à Hacker ?############
+
+Si vous êtes enthousiaste et que vous cherchez d'autres passionnés pour échanger sur l'informatique 
+ou la sécurité, oui. Par contre, le serveur ne vous doit rien, donc si vous vous attendez à des cours gratuits, 
+du spoonfeeding, ou que vous voulez "juste apprendre à pirater", revenez quand vous aurez la mentalité 
+pour apprendre. Si vous bidouillez et que vous vous posez des questions sur pourquoi ça marche/pourquoi 
+ça ne marche pas (l'essence même du hacking), alors soyez les bienvenus. 
+
+######Je débute en informatique, par où commencer ?###########
+
+Une très bonne ressource à ce sujet (merci @FatCyclone): 
+https://github.com/DFIRmadness/5pillars/blob/master/5-Pillars.md 
+A partir de ce document, vous devriez être en mesure d'avoir des mots clefs 
+et des ressources pour orienter vos recherches. Si vous ne comprenez pas l'anglais, 
+commencez par là; même si beaucoup de ressources sont disponibles en français, 
+l'anglais est un indispensable pour continuer. 
+
+#######Est-ce que Kali Linux c'est bien pour commencer ?############
+
+Ce document résume à merveille ce que vous devez avoir à l'esprit avant de vous mettre dans le bain: 
+https://openclassrooms.com/forum/sujet/kali-linux-a-lire-avant-dinstaller
+Commencez toujours avec des VM (Machines virtuelles), puis avec des liveUSB. 
+
+#######Je voudrais me mettre à Linux, par quelle distribution commencer ?#########
+
+Généralement, on a tendance à conseiller Linux Mint, Debian, Ubuntu, et Fedora pour les débutants. 
+
+########Est-ce qu'il faut apprendre de la programmation pour faire de la cybersécurité ?########
+
+Oui. Qu'il s'agisse de comprendre ce qu'est une faille, 
+comment l'exploiter, ou de manière générale comment fonctionnent les ordinateurs, 
+la cyber-sécurité est une spécialisation très vaste, qui demande une culture informatique large. 
+Non seulement la programmation est importante, mais comprendre les réseaux ou le comportement/la psychologie 
+des utilisateurs, sont des outils essentiels. 
+
+#########Par quel langage de programmation commencer ?###########
+
+Généralement, on a tendance à conseiller Python. C'est un langage de script haut-niveau 
+(facile à appréhender) qui est très populaire, donc il est facile de trouver de la documentation, 
+des réponses sur Stack Overflow, de bons salaires, etc. 
+
+#########Comment poser une question / Pourquoi personne ne me répond ?###########
+
+Cette vidéo de Cocadmin répond très bien sur ce sujet: https://www.youtube.com/watch?v=eo1ZaKP7sX8 
+
+#########Je veux faire des CTF - par où commencer ?#########
+
+En général, on conseille aux débutants d'aller sur Try Hack Me, puis de se diriger vers Hack The Box. 
+Mais il existe beaucoup de sites orientés CTF, en voici une longue liste pour aller plus loin : 
+https://www.securitynewspaper.com/2021/03/12/50-ctfcapture-the-flag-pentesting-websites-to-practice-your-hacking-cybersecurity-skills-in-2021/
+

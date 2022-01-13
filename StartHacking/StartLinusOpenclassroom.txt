@@ -1,0 +1,22 @@
+"Salut à tous,
+
+Beaucoup d'entre nous avons suivi le cours d'OpenClassrooms sur linux pour débuter. 
+Celui-ci va bientôt être archivé et est déjà remplacé par d'autres. Voici la liste, dans l'ordre à suivre
+
+ 1 - Initiez-vous à Linux : Découvrez l'univers du manchot et apprenez à utiliser l'os 
+ comme simple utilisateur
+(https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux)
+
+ 2 - Administrez un système Linux : Plongez dans le cœur de l'os et apprenez à vous passer de l'ui
+(https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux)
+
+ 3 - Montez un serveur de fichiers sous Linux : Apprenez en plus sur la manière dont vos fichiers 
+ sont stockés et comment les partager
+(https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux)
+
+ 4 - Gérez votre serveur Linux et ses services : Mettez vous dans la peau d'un administrateur et 
+ créer votre premier serveur d'entreprise.
+(https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services)
+
+Je tiens cependant à rappeler que, comme toute formation, celle-ci ne peut pas tout couvrir, 
+et il faudra la compléter avec vos propres recherches. Comme on dit dans le milieu, RTFM !"
